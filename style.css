@@ -1,0 +1,11 @@
+.formulaire{
+    display: flex
+}
+
+p{
+    margin-right: 10px;
+}
+
+.formulaireModifie{
+    display: none;
+}
